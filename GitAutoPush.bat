@@ -1,5 +1,5 @@
 :loop
-
+	iconv -f windows-1250 -t utf-8 wrongencodingresult.html > result.html
 	:: Navigate to the directory you wish to push to GitHub
 	::Change <path> as needed. Eg. C:\Users\rich\Desktop\Writings
 	::cd <path>
