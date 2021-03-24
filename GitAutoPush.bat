@@ -1,5 +1,7 @@
 :loop
 	
+	sed -i '6s/.*/<meta http-equiv="content-type" content="text/html; charset=utf-8">/' result.html
+
 	:: Navigate to the directory you wish to push to GitHub
 	::Change <path> as needed. Eg. C:\Users\rich\Desktop\Writings
 	::cd <path>
