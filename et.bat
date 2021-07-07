@@ -1,0 +1,1 @@
+iconv -f windows-1250 -t utf-8 et01szar.html > et01.html
