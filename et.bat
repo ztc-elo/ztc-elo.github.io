@@ -1,1 +1,1 @@
-iconv -f windows-1250 -t utf-8 et01szar.html > et01.html
+iconv -f windows-1250 -t utf-8 et03szar.html > et03.html
