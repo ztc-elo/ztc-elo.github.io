@@ -1,1 +1,1 @@
-iconv -f windows-1250 -t utf-8 et08_splitszar.html > et08_split.html
+iconv -f windows-1250 -t utf-8 et09_splitszar.html > et09_split.html
