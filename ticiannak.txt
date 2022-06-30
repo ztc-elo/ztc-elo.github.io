@@ -1,4 +1,4 @@
-minden futam után másold be a html eredményfájlt a mappába, nevezd át etXX_szar.html-re és futtasd az et.bat fájlt
+minden futam után másold be a html eredményfájlt az et22 mappába, nevezd át etXX_szar.html-re és futtasd az et.bat fájlt
 
 az XX az edzés sorszáma, 01-től 09-ig (éjszakai is bele van számolva, bár az úgyis elmarad)
 
