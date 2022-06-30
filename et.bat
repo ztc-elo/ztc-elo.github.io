@@ -1,4 +1,4 @@
-out1=$(iconv -f windows-1250 -t utf-8 et01_szar.html) && echo "$out1" > et01.html
+out=$(iconv -f windows-1250 -t utf-8 et01_szar.html) && echo "$out" > et01.html
 out2=$(iconv -f windows-1250 -t utf-8 et02_szar.html) && echo "$out2" > et02.html
 out3=$(iconv -f windows-1250 -t utf-8 et03_szar.html) && echo "$out3" > et03.html
 out4=$(iconv -f windows-1250 -t utf-8 et04_szar.html) && echo "$out4" > et04.html
