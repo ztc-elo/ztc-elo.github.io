@@ -4,3 +4,5 @@ az XX az edzés sorszáma, 01-től 09-ig (éjszakai is bele van számolva, bár 
 
 ha valamit át kell írni, akkor a szövegeket csak megkeresed az index.html-ben és átírod.
 Ha azt kell változtatni, hogy melyik fájlra mutasson a link, akkor megkeresed a szöveget, amin a link van, és előtte lesz egy href="fájlnév"
+
+péló
